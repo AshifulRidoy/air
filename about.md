@@ -48,7 +48,7 @@ Freelance Web Developer | Jan 2019 - Mar 2021
  - Improved website performance and user experience resulting in
    increased traffic and higher customer engagement.
 
-  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 **Education:**
 
@@ -56,7 +56,7 @@ Bachelor of Science in Computer Science, International University of Business Ag
 
 Thesis: *Automatic Detection System for Motorcycle Rules Violation using YOLOR in Real-time*
 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 **Certification:**
 
