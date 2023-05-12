@@ -23,6 +23,7 @@ Business Application Developer
 
 Elevate Solutions Limited | June 2022 - Present
 
+
  - Developed and deployed custom solutions using Microsoft Power
    Platform to automate business processes, streamline workflows, and
    improve data management for clients in the healthcare, finance, and
@@ -32,6 +33,9 @@ Elevate Solutions Limited | June 2022 - Present
  - Collaborated with stakeholders to understand their requirements and
    provided end-to-end solutions that empowered organizations to work
    smarter and more efficiently.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Freelance Web Developer | Jan 2019 - Mar 2021
 
