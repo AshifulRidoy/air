@@ -6,4 +6,4 @@ permalink: /
 
 
 ### Hi there 👋, I am Ashiful Islam Ridoy
-#### I am Developer and Data/ML Enthusiast
+#### I am a Developer and Data/ML Enthusiast
