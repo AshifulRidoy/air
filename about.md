@@ -1,15 +1,31 @@
 ---
 layout: page
-title: /about
+title: /about-me
 permalink: /about/
 ---
 
-# jekyll-theme-console
+**[~]$ whoami**
+I'm a software engineer with expertise in business automation, data engineering, and web development. Skilled in Python, Java, and low-code tools like Power Platform, I create customized solutions to improve efficiency and productivity. Experienced in Azure Data Services, I create scalable and secure data solutions for businesses.
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+**Work Experience:**
 
-## What is jekyll?
+Business Application Developer
+Elevate Solutions Limited | June 2022 - Present
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+Developed and deployed custom solutions using Microsoft Power Platform to automate business processes, streamline workflows, and improve data management for clients in the healthcare, finance, and manufacturing industries.
+Built custom connectors, created custom workflows, and integrated with other business applications using Azure Data Services.
+Collaborated with stakeholders to understand their requirements and provided end-to-end solutions that empowered organizations to work smarter and more efficiently.
+Freelance Web Developer | Jan 2019 - Mar 2021
+
+Developed and maintained websites for clients using HTML, CSS, JavaScript, PHP, SQL, and WordPress.
+Collaborated with clients to understand their requirements and delivered projects that met their needs.
+Improved website performance and user experience resulting in increased traffic and higher customer engagement.
+
+**Education:**
+Bachelor of Science in Computer Science, International University of Business Agriculture and Technology, May 2022
+Thesis: *Automatic Detection System for Motorcycle Rules Violation using YOLOR in Real-time*
+
+**Certification:**
+Web Development
+Shikhbe Shobai 
+*2019-11-26*

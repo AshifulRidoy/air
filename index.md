@@ -5,6 +5,5 @@ permalink: /
 ---
 
 
-# Hello!
-
-I am Ashiful Islam Ridoy.
+### Hi there 👋, my name is Ridoy
+#### I am Developer and Data/ML Enthusiast

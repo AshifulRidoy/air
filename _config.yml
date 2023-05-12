@@ -1,17 +1,16 @@
 title: 'air'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+description: "Portfolio"
 baseurl: "air"
 url: ""
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: ''
 
 # Build settings
 markdown: kramdown
